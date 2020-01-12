@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StatsApplication</string>
+    <string name="empty_list">No items</string>
+    <string name="error_occurred">Something is wrong</string>
+    <string name="errorimage">ErrorImage</string>
+    <string name="image">image</string>
+    <string name="name">Name: %s</string>
+    <string name="jumper">Jumper: %s</string>
+    <string name="position">Position: %s</string>
+    <string name="stats">Stat: %s</string>
+    <string name="last_match_stats">Last Match Stats: %s</string>
+    <string name="imageUrl">https://media.foxsports.com.au/match-centre/includes/images/headshots/landscape/nrl/%s.jpg</string>
+    <string name="fallbackImageUrl">https://media.foxsports.com.au/match-centre/includes/images/headshots/headshot-blank-large.jpg</string>
+
+</resources>
